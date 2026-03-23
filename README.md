@@ -18,3 +18,11 @@ This project predicts student marks based on study hours, sleep hours, and atten
 - Predicts student performance
 - Uses Linear Regression
 - Visualizes data using graphs
+
+## Sample Input
+Study Hours: 6  
+Sleep Hours: 7  
+Attendance: 85  
+
+## Output
+Predicted Marks: ~76
